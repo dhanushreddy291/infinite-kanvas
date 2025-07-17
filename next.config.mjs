@@ -25,4 +25,8 @@ const nextConfig = {
   },
 };
 
+if (process.env.IS_STANDALONE_BUILD === 'true') {
+  nextConfig.output = 'standalone';
+}
+
 export default withBotId(nextConfig);

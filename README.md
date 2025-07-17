@@ -15,6 +15,12 @@ An infinite canvas image editor with AI transformations using fal.ai. Built with
 - Auto-save to IndexedDB
 - Undo/redo support
 
+## One-Click Deploy
+
+Deploy directly to your preferred hosting platform:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/dhanushreddy291/infinite-kanvas&env=FAL_KEY&project-name=infinite-kanvas&repository-name=infinite-kanvas)
+
 ## Technical Details
 
 ### Canvas
